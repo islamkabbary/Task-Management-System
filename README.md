@@ -111,6 +111,12 @@ A complete Postman collection and environment file are included in the repo unde
 
 ---
 
+## Database ERD Diagram
+
+![ERD Diagram](database/diagrams/ERD.png)
+
+---
+
 ## Notes
 
 - This version does **not include Docker** support.
